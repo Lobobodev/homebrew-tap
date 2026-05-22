@@ -1,6 +1,6 @@
 cask "codexbarmenubar" do
-  version "0.27.0"
-  sha256 "aa67d6e393d193d24967e4de8c4ae41199cb9d0915e2d787cfe76ea0a73566d6"
+  version "0.28.0"
+  sha256 "204fabb57e8abe270d5b2816c115ea184542ffcce1beaeb887997e16687fac2e"
 
   url "https://github.com/Lobobodev/CodexBarMenuBar/releases/download/v#{version}/CodexBarMenuBar-v#{version}.zip",
       verified: "github.com/Lobobodev/CodexBarMenuBar/"
